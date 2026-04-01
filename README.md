@@ -1,5 +1,5 @@
 # Mobile App Developer Test
-Thank you for taking the time to complete our Mobile App Developer Test. The test is setup to demonstrate your capabilities as an Android developer.
+Thank you for taking the time to complete our Mobile App Developer Test. The test is setup to demonstrate your capabilities as a Mobile App Developer.
 - You will have **maximum three (3) days** to complete and submit the test
 - You do **not** need to provide a finished production-ready app, we are more interested in seeing how you tackle the tasks with critical thinking and how you demonstrate problem-solving through the use of technical solutions
 - You will also be graded on the following criteria:

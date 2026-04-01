@@ -16,7 +16,7 @@ Thank you for taking the time to complete our Mobile App Developer Test. The tes
   - Upon checkout, the order data should be saved locally to a `.json` file labelled with the  unique order ID e.g `order_2948281.json`
 
 ## Design
-* The design in provided in this [Figma link](https://www.figma.com/file/etoGjuqRvMrVAISq0BkOEt/android_dev_test_screens?type=design&mode=design&t=2kIuEXpHOqo5PK05-1)
+* The design in provided in this [Figma link](https://www.figma.com/design/I0jus6P2J3mQZGzpSijKJO/Mobile-App-Developer-Test-Screens?node-id=0-1&t=ikwyqODzsw3i9WXU-1)
 * We have also provided PNG screens to use for reference
 
 ## Implementation

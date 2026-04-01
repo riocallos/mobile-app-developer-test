@@ -13,7 +13,7 @@ Thank you for taking the time to complete our Mobile App Developer Test. The tes
   - The cart contents should update in real-time when a user adds a product to the cart
   - Cart contents should persist throughout the users session, including on refresh, until the user clears their contents or places an order
   - Each submitted order should have a unique identifier and there should be checks in place to determine if it is unique
-  - Upon checkout, the order data should be saved locally to a `.json` file labelled with the  unique order ID e.g `order_2948281.json`
+  - Upon checkout, the order data should be saved locally to a `.json` file labelled with the  unique order ID e.g `order_2948281.json`. Provide a way for the user to export/share that file.
 
 ## Design
 * The design in provided in this [Figma link](https://www.figma.com/design/I0jus6P2J3mQZGzpSijKJO/Mobile-App-Developer-Test-Screens?node-id=0-1&t=ikwyqODzsw3i9WXU-1)
@@ -21,7 +21,7 @@ Thank you for taking the time to complete our Mobile App Developer Test. The tes
 
 ## Implementation
 * For Android developers, you are required to use Kotlin
-* For iOS developers, you are required to use Swift
+* For iOS developers, you are required to use Swift and the UI must be built programmatically using UIKit (no Storyboards/XIB)
 * You can use any architecture, framework, and libraries you are comfortable with to achieve the required tasks
 
 ## Submissions
